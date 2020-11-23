@@ -1632,6 +1632,96 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sapphire_armor_boots_recipe"
+    },
+    {
+      "name": "ObsidianPickaxe",
+      "type": "tool",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe"
+    },
+    {
+      "name": "ObsidianAxe",
+      "type": "tool",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe"
+    },
+    {
+      "name": "ObsidianSword",
+      "type": "tool",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_sword"
+    },
+    {
+      "name": "ObsidianShovel",
+      "type": "tool",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_shovel"
+    },
+    {
+      "name": "ObsidianHoe",
+      "type": "tool",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_hoe"
+    },
+    {
+      "name": "ObsidianPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_pickaxe_recipe"
+    },
+    {
+      "name": "ObsidianAxeRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_axe_recipe"
+    },
+    {
+      "name": "ObsidianSwordRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_sword_recipe"
+    },
+    {
+      "name": "ObsidianShovelRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_shovel_recipe"
+    },
+    {
+      "name": "ObsidianHoeRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_hoe_recipe"
     }
   ],
   "variable_elements": [],
@@ -1674,6 +1764,7 @@
       "item.oreslite.led_ingot": "Led",
       "item.oreslite.ruby_hoe": "Ruby Hoe",
       "block.oreslite.titanium_ore": "Titanium Ore",
+      "item.oreslite.obsidian_sword": "Obsidian Sword",
       "item.oreslite.diopside_sword": "Diopside Sword",
       "block.oreslite.topaz_ore_block": "Block of Topaz",
       "block.oreslite.diopside_ore_block": "Block of Diopside",
@@ -1685,6 +1776,7 @@
       "item.oreslite.topaz_armor_chestplate": "Topaz Chestplate",
       "item.oreslite.titanium_armor_boots": "Titanium Boots",
       "item.oreslite.ruby_sword": "Ruby Sword",
+      "item.oreslite.obsidian_shovel": "Obsidian Shovel",
       "item.oreslite.topaz_pickaxe": "Topaz Pickaxe",
       "item.oreslite.titanium_armor_helmet": "Titanium Helmet",
       "item.oreslite.titanium_pickaxe": "Titanium Pickaxe",
@@ -1712,6 +1804,7 @@
       "item.oreslite.amethyst_armor_leggings": "Amethyst Leggings",
       "item.oreslite.diopside_armor_chestplate": "Diopside Chestplate",
       "block.oreslite.topaz_ore": "Topaz Ore",
+      "item.oreslite.obsidian_axe": "Obsidian Axe",
       "block.oreslite.amethyst_ore_block": "Block of Amethyst",
       "item.oreslite.sapphire_sword": "Sapphire Sword",
       "item.oreslite.topaz_gem": "Topaz",
@@ -1726,9 +1819,11 @@
       "item.oreslite.led_armor_chestplate": "Led Chestplate",
       "item.oreslite.titanium_shovel": "Titanium Shovel",
       "item.oreslite.zinc_ingot": "Zinc",
+      "item.oreslite.obsidian_hoe": "Obsidian Hoe",
       "item.oreslite.led_armor_boots": "Led Boots",
       "item.oreslite.garnet_gem": "Garnet",
       "item.oreslite.garnet_pickaxe": "Garnet Pickaxe",
+      "item.oreslite.obsidian_pickaxe": "Obsidian Pickaxe",
       "item.oreslite.topaz_armor_helmet": "Topaz Helmet",
       "item.oreslite.led_armor_leggings": "Led Leggings",
       "item.oreslite.amethyst_pickaxe": "Amethyst Pickaxe",
