@@ -1,0 +1,13 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oreslite:sapphire_ore_block"
+    }
+  ],
+  "result": {
+    "item": "oreslite:sapphire_gem",
+    "count": 9
+  }
+}

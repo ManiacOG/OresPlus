@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "ruby_gem",
+    "texture": "sapphire_gem",
     "customModelName": "Normal",
-    "name": "Ruby",
+    "name": "Sapphire",
     "creativeTab": {
       "value": "CUSTOM:OresLite"
     },

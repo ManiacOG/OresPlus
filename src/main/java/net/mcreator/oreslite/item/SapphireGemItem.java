@@ -11,11 +11,11 @@ import net.mcreator.oreslite.itemgroup.OresLiteItemGroup;
 import net.mcreator.oreslite.OresliteModElements;
 
 @OresliteModElements.ModElement.Tag
-public class RubyGemItem extends OresliteModElements.ModElement {
-	@ObjectHolder("oreslite:ruby_gem")
+public class SapphireGemItem extends OresliteModElements.ModElement {
+	@ObjectHolder("oreslite:sapphire_gem")
 	public static final Item block = null;
-	public RubyGemItem(OresliteModElements instance) {
-		super(instance, 114);
+	public SapphireGemItem(OresliteModElements instance) {
+		super(instance, 156);
 	}
 
 	@Override
@@ -25,7 +25,7 @@ public class RubyGemItem extends OresliteModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(OresLiteItemGroup.tab).maxStackSize(64));
-			setRegistryName("ruby_gem");
+			setRegistryName("sapphire_gem");
 		}
 
 		@Override

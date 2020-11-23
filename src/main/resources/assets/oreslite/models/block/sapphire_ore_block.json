@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oreslite:blocks/sapphire_ore_block",
+    "particle": "oreslite:blocks/sapphire_ore_block"
+  }
+}
