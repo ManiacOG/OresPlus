@@ -4,11 +4,11 @@ package net.mcreator.oreslite.item;
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 import net.minecraft.item.HoeItem;
 
+import net.mcreator.oreslite.itemgroup.OresLiteItemGroup;
 import net.mcreator.oreslite.OresliteModElements;
 
 @OresliteModElements.ModElement.Tag
@@ -45,7 +45,7 @@ public class ObsidianHoeItem extends OresliteModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.EMPTY;
 			}
-		}, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, -3f, new Item.Properties().group(OresLiteItemGroup.tab)) {
 		}.setRegistryName("obsidian_hoe"));
 	}
 }

@@ -8,7 +8,7 @@
     "name": "Obsidian Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:OresLite"
     },
     "toolType": "Spade",
     "harvestLevel": 4,

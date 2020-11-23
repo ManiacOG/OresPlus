@@ -1722,6 +1722,57 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "obsidian_hoe_recipe"
+    },
+    {
+      "name": "ObsidianArmor",
+      "type": "armor",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ObsidianArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_armor_helmet_recipe"
+    },
+    {
+      "name": "ObsidianArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_armor_body_recipe"
+    },
+    {
+      "name": "ObsidianArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_armor_leggings_recipe"
+    },
+    {
+      "name": "ObsidianArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obsidian_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -1763,6 +1814,7 @@
       "item.oreslite.sapphire_armor_helmet": "Sapphire Helmet",
       "item.oreslite.led_ingot": "Led",
       "item.oreslite.ruby_hoe": "Ruby Hoe",
+      "item.oreslite.obsidian_armor_chestplate": "Obsidian Chestplate",
       "block.oreslite.titanium_ore": "Titanium Ore",
       "item.oreslite.obsidian_sword": "Obsidian Sword",
       "item.oreslite.diopside_sword": "Diopside Sword",
@@ -1782,6 +1834,7 @@
       "item.oreslite.titanium_pickaxe": "Titanium Pickaxe",
       "item.oreslite.led_axe": "Led Axe",
       "item.oreslite.ruby_shovel": "Ruby Shovel",
+      "item.oreslite.obsidian_armor_helmet": "Obsidian Helmet",
       "item.oreslite.topaz_armor_boots": "Topaz Boots",
       "item.oreslite.topaz_hoe": "Topaz Hoe",
       "item.oreslite.titanium_axe": "Titanium Axe",
@@ -1817,11 +1870,13 @@
       "block.oreslite.led_ore_block": "Block of Led",
       "item.oreslite.sapphire_armor_boots": "Sapphire Boots",
       "item.oreslite.led_armor_chestplate": "Led Chestplate",
+      "item.oreslite.obsidian_armor_leggings": "Obsidian Leggings",
       "item.oreslite.titanium_shovel": "Titanium Shovel",
       "item.oreslite.zinc_ingot": "Zinc",
       "item.oreslite.obsidian_hoe": "Obsidian Hoe",
       "item.oreslite.led_armor_boots": "Led Boots",
       "item.oreslite.garnet_gem": "Garnet",
+      "item.oreslite.obsidian_armor_boots": "Obsidian Boots",
       "item.oreslite.garnet_pickaxe": "Garnet Pickaxe",
       "item.oreslite.obsidian_pickaxe": "Obsidian Pickaxe",
       "item.oreslite.topaz_armor_helmet": "Topaz Helmet",
