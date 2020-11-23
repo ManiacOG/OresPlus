@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "oreslite:block/silver_ore_block"
+    }
+  }
+}
