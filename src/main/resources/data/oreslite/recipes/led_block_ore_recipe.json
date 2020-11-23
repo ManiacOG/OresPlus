@@ -1,0 +1,13 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oreslite:led_ore_block"
+    }
+  ],
+  "result": {
+    "item": "oreslite:led_ingot",
+    "count": 9
+  }
+}

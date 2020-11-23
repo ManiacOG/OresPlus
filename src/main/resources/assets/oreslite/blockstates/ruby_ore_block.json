@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "oreslite:block/ruby_ore_block"
+    }
+  }
+}

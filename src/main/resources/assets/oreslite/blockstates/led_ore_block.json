@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "oreslite:block/led_ore_block"
+    }
+  }
+}

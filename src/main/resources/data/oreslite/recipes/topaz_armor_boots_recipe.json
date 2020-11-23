@@ -1,0 +1,26 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "oreslite:topaz_gem"
+    },
+    "2": {
+      "item": "oreslite:topaz_gem"
+    },
+    "3": {
+      "item": "oreslite:topaz_gem"
+    },
+    "5": {
+      "item": "oreslite:topaz_gem"
+    }
+  },
+  "result": {
+    "item": "oreslite:topaz_armor_boots",
+    "count": 1
+  }
+}

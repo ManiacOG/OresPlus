@@ -1,0 +1,30 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "oreslite:topaz_gem"
+    },
+    "1": {
+      "item": "oreslite:topaz_gem"
+    },
+    "2": {
+      "item": "oreslite:topaz_gem"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "oreslite:topaz_pickaxe",
+    "count": 1
+  }
+}

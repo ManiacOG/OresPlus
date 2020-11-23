@@ -1,0 +1,24 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "oreslite:diopside_gem"
+    },
+    "1": {
+      "item": "oreslite:diopside_gem"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "oreslite:diopside_sword",
+    "count": 1
+  }
+}

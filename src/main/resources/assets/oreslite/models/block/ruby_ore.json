@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oreslite:blocks/ruby_ore",
+    "particle": "oreslite:blocks/ruby_ore"
+  }
+}

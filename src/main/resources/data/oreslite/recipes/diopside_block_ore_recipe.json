@@ -1,0 +1,13 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oreslite:diopside_ore_block"
+    }
+  ],
+  "result": {
+    "item": "oreslite:diopside_gem",
+    "count": 9
+  }
+}

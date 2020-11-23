@@ -1,0 +1,11 @@
+{
+  "_fv": 10,
+  "_type": "tab",
+  "definition": {
+    "name": "Ores Lite",
+    "icon": {
+      "value": "CUSTOM:LedPickaxe"
+    },
+    "showSearch": false
+  }
+}

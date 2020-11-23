@@ -1,0 +1,12 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "oreslite:zinc_ore"
+  },
+  "result": {
+    "item": "oreslite:zinc_ingot"
+  }
+}

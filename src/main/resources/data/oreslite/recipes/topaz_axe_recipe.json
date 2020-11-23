@@ -1,0 +1,30 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "oreslite:topaz_gem"
+    },
+    "1": {
+      "item": "oreslite:topaz_gem"
+    },
+    "2": {
+      "item": "oreslite:topaz_gem"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "oreslite:topaz_axe",
+    "count": 1
+  }
+}

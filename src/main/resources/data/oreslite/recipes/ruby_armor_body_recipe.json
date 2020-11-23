@@ -1,0 +1,39 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oreslite:ruby_gem"
+    },
+    "2": {
+      "item": "oreslite:ruby_gem"
+    },
+    "3": {
+      "item": "oreslite:ruby_gem"
+    },
+    "4": {
+      "item": "oreslite:ruby_gem"
+    },
+    "5": {
+      "item": "oreslite:ruby_gem"
+    },
+    "6": {
+      "item": "oreslite:ruby_gem"
+    },
+    "7": {
+      "item": "oreslite:ruby_gem"
+    },
+    "8": {
+      "item": "oreslite:ruby_gem"
+    }
+  },
+  "result": {
+    "item": "oreslite:ruby_armor_chestplate",
+    "count": 1
+  }
+}

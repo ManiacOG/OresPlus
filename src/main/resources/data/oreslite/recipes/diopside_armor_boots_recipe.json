@@ -1,0 +1,26 @@
+{
+  "group": "oreslite",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "oreslite:diopside_gem"
+    },
+    "2": {
+      "item": "oreslite:diopside_gem"
+    },
+    "3": {
+      "item": "oreslite:diopside_gem"
+    },
+    "5": {
+      "item": "oreslite:diopside_gem"
+    }
+  },
+  "result": {
+    "item": "oreslite:diopside_armor_boots",
+    "count": 1
+  }
+}
